@@ -23,5 +23,8 @@
   "homepage": "https://github.com/SilkinMax/autotestsBlockHexlet#readme",
   "dependencies": {
     "chai": "^6.2.2"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0"
   }
 }
