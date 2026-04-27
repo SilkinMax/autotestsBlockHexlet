@@ -7,6 +7,4 @@ if (capitalize('hello') !== 'Hello') {
 if (capitalize('') !== '') {
   throw new Error('Функция работает неверно!')
 }
-//проверка
-
 console.log('Все тесты пройдены!')
