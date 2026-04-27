@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/SilkinMax/autotestsBlockHexlet/issues"
   },
-  "homepage": "https://github.com/SilkinMax/autotestsBlockHexlet#readme"
+  "homepage": "https://github.com/SilkinMax/autotestsBlockHexlet#readme",
+  "dependencies": {
+    "chai": "^6.2.2"
+  }
 }
